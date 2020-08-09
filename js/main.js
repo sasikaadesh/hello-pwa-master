@@ -6,3 +6,4 @@ window.onload = () => {
              .register('https://github.com/sasikaadesh/hello-pwa-master/sw.js');
   }
 }
+
